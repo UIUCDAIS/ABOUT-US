@@ -42,12 +42,6 @@ We, **DAIS**
 >*Bachelor’s of Science in Statistics, Minor in Computer Science* | Department of Liberal Arts & Science
 - **Vice President - Jae Wook Lee** [jaewook3@illinois.edu]
 >*Bachelor's of Science in Electrical Engineering* | Department of Electrical and Computer Engineering
-- **Director of Project Management - Jeong Woo Choi (Justin)** [jc22@illinois.edu]
->*Bachelor’s of Science in Economics & Statistics, Minor in Computer Science* | Department of Liberal Arts & Science
-- **Director of Policy and Advocacy - Byung Hoon Kwon (Eddie)** [bk7@illinois.edu]
->*Bachelor's of Science in Engineering Mechanics* | Department of Mechanical Science and Enginneering
-- **Director of Internal Affairs - Jae Yoon Jeong** [jyjeong2@illinois.edu]
->*Bachelor's of Science in Electrical Engineering* | Department of Electrical and Computer Engineering
 
 
 
